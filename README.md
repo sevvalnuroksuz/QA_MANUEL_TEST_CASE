@@ -1,4 +1,4 @@
-# bugs_screenshots
+# Manuel Test Case 
 
 Bu repo, test sürecinde tespit edilen bug’lara ait ekran görüntülerini (screenshot) saklamak ve excel dosyası içeriğini görüntüleyebilmek amacı ile oluşturulmuştur.
 
